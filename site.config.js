@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'ONLYONE',
-  domain: 'https://hacg.notion.site/ONLYONE-a7fa9e2d251e4d1cb4152ba81b426f61',
+  domain: 'https://hacg.notion.site/a7fa9e2d251e4d1cb4152ba81b426f61',
   author: '二蛋',
 
   // open graph metadata (optional)
