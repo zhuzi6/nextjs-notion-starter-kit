@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'a7fa9e2d251e4d1cb4152ba81b426f61',
+  rootNotionPageId: '9a7741fd71a24f3f8225db8c7bd3b861',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'ONLYONE',
-  domain: 'https://hacg.notion.site/a7fa9e2d251e4d1cb4152ba81b426f61',
+  domain: 'https://hacg.notion.site/9a7741fd71a24f3f8225db8c7bd3b861',
   author: '二蛋',
 
   // open graph metadata (optional)
